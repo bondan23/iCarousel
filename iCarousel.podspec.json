@@ -1,6 +1,6 @@
 {
   "name": "iCarousel",
-  "version": "1.8.3",
+  "version": "1.8.2",
   "license": {
     "type": "zlib",
     "file": "LICENCE.md"
@@ -11,8 +11,7 @@
     "Nick Lockwood": "support@charcoaldesign.co.uk"
   },
   "source": {
-    "git": "https://github.com/nicklockwood/iCarousel.git",
-    "tag": "1.8.3"
+    "git": "https://github.com/bondan23/iCarousel.git",
   },
   "source_files": "iCarousel/iCarousel.{h,m}",
   "requires_arc": true,
